@@ -11,7 +11,7 @@ oci8-2.0.12 <br>
 
 ## Pull Image
 
-Or You can also directly pull image from https://hub.docker.com/ 
+Or You can also directly pull image from [hub.docker.com](https://hub.docker.com/r/hairullohsukur/ubuntu1204-apache22-php53-oci8)
 by running below command in the Terminal:
 
 ```bash
