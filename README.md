@@ -1,5 +1,7 @@
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" width=25% height=25%/> 
 
+<br>
+
 # docker-ubuntu1204-apache22-php53-oci8
 
 This is a project for create docker image with environment specification: <br><br>
@@ -9,6 +11,8 @@ Apache 2.2.22, <br>
 oracle-instantclient 12.1.0.2.0-2, <br>
 oci8-2.0.12 <br>
 
+<br>
+
 ## Pull Image
 
 Or You can also directly pull image from [hub.docker.com](https://hub.docker.com/r/hairullohsukur/ubuntu1204-apache22-php53-oci8)
@@ -17,6 +21,7 @@ by running below command in the Terminal:
 ```bash
   docker pull hairullohsukur/ubuntu1204-apache22-php53-oci8
 ```
+<br>
 
 ## Create Container
 
